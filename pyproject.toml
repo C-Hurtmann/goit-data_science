@@ -9,6 +9,9 @@ packages = [{include = "goit_data_science"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 numpy = "^1.25.2"
+pandas = "^2.0.3"
+lxml = "^4.9.3"
+html5lib = "^1.1"
 
 
 [tool.poetry.group.dev.dependencies]
